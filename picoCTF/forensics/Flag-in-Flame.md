@@ -1,4 +1,4 @@
-````markdown id="fla1re"
+
 # Flag in Flame
 
 ## Platform
@@ -33,7 +33,8 @@ I used the following recipe in CyberChef:
 - From Base64
 
 After decoding, the output was an image containing a hidden message.
-[CyberChef output](assets/flaginflame.png)
+
+![CyberChef output](assets/flaginflame.png)
 ---
 
 ## Hidden Image
