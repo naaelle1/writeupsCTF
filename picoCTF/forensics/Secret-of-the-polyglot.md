@@ -1,4 +1,3 @@
-````markdown id="poly1"
 # Secret of the Polyglot
 
 ## Platform
