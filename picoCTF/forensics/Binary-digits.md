@@ -45,7 +45,7 @@ I copied the binary text and pasted it into CyberChef. Then I used the following
 
 After running the recipe, an image appeared in the output. Hidden inside the image was the flag.
 
-![CyberChef output](picoCTF/forensics/assets/binary-digits.png)
+![CyberChef output](assets/binary-digits.png)
 
 ## Flag
 
