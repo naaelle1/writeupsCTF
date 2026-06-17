@@ -51,8 +51,9 @@ Teks `cvbpPGS` terlihat seperti hasil pergeseran karakter (cipher substitusi) da
 Untuk mendapatkan bendera aslinya:
 
 1. Salin teks `cvbpPGS{c33xno00_1_f33_h_qrnqorrs}`.
-2. Masukkan teks tersebut ke dalam pembaca sandi ROT13 
-!(seperti terlihat pada gambar `assets/decode rot13.png`).
+2. Masukkan teks tersebut ke dalam pembaca sandi ROT13 (seperti terlihat pada gambar `decode rot13.png`).
+
+![Cyberchef](assets/decode-rot13)
 
 Hasil dekode langsung memunculkan flag asli dalam format yang benar.
 
